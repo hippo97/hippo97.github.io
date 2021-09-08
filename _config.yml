@@ -20,7 +20,7 @@ title: "하마의 기록 저장소"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "공부하는 하마"
-description: "안녕하세요 반갑습니다:) 매일매일 공부하고 기록하기 위해 노력하고있습니다:) 틀린 부분, 지적할 부분이 있다면 언제든지 부탁드리겠습니다. 감사합니다:)"
+description: "안녕하세요 반갑습니다:) <br /> 매일매일 공부하고 기록하기 위해 노력하고있습니다:) <br />틀린 부분, 지적할 부분이 있다면 언제든지 부탁드리겠습니다. 감사합니다:) <br />"
 url: "https://hippo97.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
